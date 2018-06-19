@@ -1,0 +1,11 @@
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\bin\Debug\studentRandomChoice.exe.config
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\bin\Debug\studentRandomChoice.exe
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\bin\Debug\studentRandomChoice.pdb
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\bin\Debug\studentRandomChoice.xml
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.vbprojResolveAssemblyReference.cache
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.Form.resources
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.Resources.resources
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.vbproj.GenerateResource.Cache
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.exe
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.xml
+C:\Users\zhyh2\Desktop\sweetie\studentRandomChoice\studentRandomChoice\obj\Debug\studentRandomChoice.pdb
